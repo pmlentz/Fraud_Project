@@ -24,7 +24,13 @@ To create these synthetic observations two oversampling techniques were tested.
 2. Majority weighted minority oversampling (MWMOTE)
 
 After plotting the original and synthetic observations on their first and second principal components, MWMOTE was chosen as a more promising technique. Below I have shown the plots used in this determination.
-<img width="1368" alt="First Synthetic Graphic" src="https://user-images.githubusercontent.com/86200382/150914080-a2f04d18-ac93-423b-80b7-d39a1736ba29.png">
 
-Not all synthetic observations are created equally though and so a cleaning algorithm was used to attempt
+<img width="1368" alt="First Synthetic Graphic" src="https://user-images.githubusercontent.com/86200382/150915528-72b8a303-8897-4d7e-a3d4-59e517d15184.png">
+
+Not all synthetic observations are created equally though and so a cleaning algorithm using kmeans and game theory was used to attempt to find the observations most resembling the real data. To do this, more observations had to be created with the MWMOTE method and filtered down to above 7309 new synthetic frauds. Below we see the original, unfiltered synthetic, and filtered synthetic plots that was used for machine learning.
+
+<img width="1368" alt="Second Synthetic Graph" src="https://user-images.githubusercontent.com/86200382/150915546-b0a5ecd7-78b8-48ac-9f58-e5d9ff5394dd.png">
+
+### Machine Learning Techniques
+
 
