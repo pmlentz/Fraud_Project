@@ -23,7 +23,7 @@ To create these synthetic observations two oversampling techniques were tested.
 1. Probability density function estimation based oversampling (PDFOS)
 2. Majority weighted minority oversampling (MWMOTE)
 
-After plotting the original and synthetic observations on their first and second principal components, MWMOTE was chosen as a more promising technique. Below I have shown the plots used in this determination.
+After plotting the original and synthetic observations on their first and second principal components, MWMOTE was chosen as a more promising technique. Below I have shown the plots used in making this determination.
 
 <img width="1368" alt="First Synthetic Graphic" src="https://user-images.githubusercontent.com/86200382/150915528-72b8a303-8897-4d7e-a3d4-59e517d15184.png">
 
