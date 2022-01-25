@@ -27,7 +27,7 @@ After plotting the original and synthetic observations on their first and second
 
 <img width="1368" alt="First Synthetic Graphic" src="https://user-images.githubusercontent.com/86200382/150915528-72b8a303-8897-4d7e-a3d4-59e517d15184.png">
 
-Not all synthetic observations are created equally though so I used a cleaning algorithm using kmeans and game theory to attempt to find the observations most resembling the real data. To do this, more observations had to be created with the MWMOTE method and filtered down to above 7309 new synthetic frauds. Below are see plots of the original, unfiltered 45000 synthetic, and the filtered 9108 synthetic frauds that I used for machine learning. The proportion of fraudulent observations in the training data was 6.336% after including these synthetic observations.
+Not all synthetic observations are created equally though so I used a cleaning algorithm that kmeans and game theory to attempt to find the observations most resembling the real data. To do this, more observations had to be created with the MWMOTE method and filtered down to above 7309 new synthetic frauds. Below are see plots of the original, unfiltered 45000 synthetic, and the filtered 9108 synthetic frauds that I used for machine learning. The proportion of fraudulent observations in the training data was 6.336% after including these synthetic observations.
 
 <img width="1368" alt="Second Synthetic Graph" src="https://user-images.githubusercontent.com/86200382/150915546-b0a5ecd7-78b8-48ac-9f58-e5d9ff5394dd.png">
 
