@@ -44,7 +44,7 @@ The XG Boost model was used to predict fraudulent observations in the test data 
 I found that when using the Youden's Index classification threshold of 0.000513, 10 out of 116 frauds were misclassified and 675 of 59393 non-frauds were misclassified. If this threshold is adjusted to 0.00255, one more fraudulent observation is misclassified but 545 more non-fraudulents are correctly classified. This threshold could be further refined based on an institutions cost for each type of misclassification. The final model has a sensitivity of .9052 and a specificity of .9978.
 
 ## Conclusion
-This project was a great opportunity to practice many different machine learning skills. If you have any feedback, comments, or concerns, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/paul-lentz/). To view my code for this project, please check it out here!
+This project was a great opportunity to practice many different machine learning skills. If you have any feedback, comments, or concerns, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/paul-lentz/). To view my code for this project, please check it out [here](https://github.com/pmlentz/Fraud_Project/blob/main/R%20code%20Weighted.R)!
 
 [^1]: https://www.cnbc.com/2021/01/27/credit-card-fraud-is-on-the-rise-due-to-covid-pandemic.html\
 [^2]: https://www.vesta.io/blog/false-positives-credit-card-fraud-detection
