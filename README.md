@@ -13,7 +13,7 @@ Utilizing R, I tackled many issues to identify fraudulent transactions such as a
 ## Data Used
 This project uses data from a data set from Kaggle. It contained 198365 credit card transaction observations from European credit card users in September 2013. The data was primarily formatted in 28 principal components to protect anonymity, as well as the variables Amount (amount of transaction), Time (seconds between each transaction and the first in the dataset), and Class (indicator variable for fraud (1) or not fraud (0).  The data set contained 197982 non-fraudulent and 383 fradulent transactions making it extremely imbalanced.
 The data was split into a train and test data set with a 70-30 split. The training data set contained 138589 non-fraudulent transactions and 267 fraudulent transactions
-or 0.1923% of the data classified as fraud. The test data set contained 59393 non-fraudulent transactions and 116 fraudulent transactions or .1949% of the data classified as fraud.
+or 0.1923% of the data classified as fraud. The test data set contained 59393 non-fraudulent transactions and 116 fraudulent transactions or 0.1949% of the data classified as fraud.
 
 ## Methods
 
