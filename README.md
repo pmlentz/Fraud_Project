@@ -56,10 +56,10 @@ I found that when using the Youden's Index classification threshold of 0.000513,
 ## Conclusion
 
 ### Takeaways
-Predicting fraudulent transactions is an important task in the utilization of credit cards. Customers not only expect the bank's protection in not allowing their cards to be used for fraudulent transactions, but also don't want the inconvenience of their card being declined for legit transactions. Customers rightfully have high expectations of their bank and as data scientists we can contribute directly to meeting these expectations in this way. 
+Predicting fraudulent transactions is an important task in the utilization of credit cards. Customers not only expect the bank's protection in not allowing their cards to be used for fraudulent transactions, but also don't want the inconvenience of their card being declined for legit transactions. Customers rightfully have high expectations of their bank and we can assist in meeting these expectations using data science.
 
 ### 👋
-This project was a great opportunity to practice many different machine learning skills. If you have any feedback, comments, or concerns, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/paul-lentz/). To view my code for this project, please check it out [here](https://github.com/pmlentz/Fraud_Project/blob/main/R%20code%20Weighted.R)! Thank you all for taking the time to check my project out. I hope you enjoyed it!
+This project was a great opportunity to practice many different machine learning skills as well as practice working with an imbalanced data set. If you have any feedback, comments, or concerns, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/paul-lentz/). To view my code for this project, please check it out [here](https://github.com/pmlentz/Fraud_Project/blob/main/R%20code%20Weighted.R)! Thank you for taking the time to check my project out. I hope you enjoyed it!
 
 
 [^1]: https://www.cnbc.com/2021/01/27/credit-card-fraud-is-on-the-rise-due-to-covid-pandemic.html\
